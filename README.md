@@ -1,5 +1,4 @@
-# react-native-challenge
-Desafio de reactNative pra mobile da +TODOS
+![portaldetodos](https://avatars0.githubusercontent.com/u/56608703?s=400&u=ae31a7a07d28895589b42ed0fcfc102c3d5bccff&v=4)
 
 How-to-solve
 ------------
@@ -68,22 +67,9 @@ Resposta:
  ]
  ```
  
- Documentação
- ------------
- 
- Detalhe bem os requisitos do projeto e como rodar, ex:
- 
-Requisitos e tecnologias usadas na aplicação
-============================================
-```json
-React-Native
-Redux
-Redux-Saga
-Styled-Components
-Jest
-Enzyme
-Lint
-````
+ Boa Sorte!
+ ----------
+![Luck](https://media.tenor.com/images/e026ce9d75219c8d82277ddf0558ee2b/tenor.gif)
 
 
  
