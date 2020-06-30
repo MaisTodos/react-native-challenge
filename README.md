@@ -3,11 +3,12 @@ Desafio de reactNative pra mobile da +TODOS
 
 How-to-solve
 ------------
-- Use Git;
-- Procure fazer micro commits que são muitos commits com menos código isso nos ajuda a compreender a sua lógica;
-- Nos pergunte sobre qualquer dúvida que venha a surgir durante o desenvolvimento;
-- Documente detalhadamente quaisquer referencias/ferramentas que vc pesquisar;
-- Crie um repositório público e nos passe o link para acompanharmos o desenvolvimento;
+- O app deve ser feito em React-Native
+- Use Git
+- Procure fazer micro commits que são muitos commits com menos código isso nos ajuda a compreender a sua lógica
+- Nos pergunte sobre qualquer dúvida que venha a surgir durante o desenvolvimento
+- Documente detalhadamente quaisquer referencias/ferramentas que vc pesquisar
+- Crie um repositório público e nos passe o link para acompanharmos o desenvolvimento
 
 
 Problema
