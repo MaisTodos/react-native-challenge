@@ -32,7 +32,7 @@ Documentação da API
 ===================
 
 API de saldo
-=============
+------------
 - balance (float com o saldo
 - https://5efb30ac80d8170016f7613d.mockapi.io/api/mock/balance
 
@@ -43,7 +43,7 @@ API de saldo
 ```
 
 API de transações
-=================
+-----------------
 
 - tipoLancamento C para Crédito e D para Débito
 - https://5efb30ac80d8170016f7613d.mockapi.io/api/mock/transactions
