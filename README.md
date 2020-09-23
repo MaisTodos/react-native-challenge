@@ -13,12 +13,14 @@ How-to-solve
 Problema
 --------
 
-A MAISTodos precisa mostrar para os seus clientes o saldo disponível em suas contas
+A MAISTodos precisa mostrar para os seus clientes o saldo disponível em suas respectivas MAISContas
+
 Para isso vamos fazer um APP mobile bem simples, que mostra apenas as movitações da conta do cliente e o seu saldo
+
 Para isso vamos consultar a nossa API de CC
 
-Para o login na aplicação, primeiro deve ter uma tela de input do username, e depois uma tela para a senha
-E só aó enviar para a API
+Para o login na aplicação, primeiro deve ter uma tela de input do username,
+E depois uma tela para a senha, e aí enviar para a API
 
 Seguindo a **sugestão** de layout:
 ![Username](username.png)
