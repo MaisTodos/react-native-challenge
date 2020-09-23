@@ -21,13 +21,13 @@ Para o login na aplicação, primeiro deve ter uma tela de input do username, e 
 E só aó enviar para a API
 
 Seguindo a **sugestão** de layout:
-![Username](username.png | width=100)
-![Password](password.png | width=100)
+![Username](username.png?v=4&s=100)
+![Password](password.png?v=4&s=200)
 
 Para o Saldo, mostrar "escondido" num primeiro momento 
 Seguindo a **sugestão** de layout:
-![Saldo escondido](balance.png | width=100)
-![Saldo visível](hidden_balance.png | width=100)
+![Saldo escondido](balance.png?v=4&s=30)
+![Saldo visível](hidden_balance.png?v=4&s=50)
 
 Deve seguir os conceitos
 ========================
