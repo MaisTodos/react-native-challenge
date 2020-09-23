@@ -21,8 +21,8 @@ Para o login na aplicação, primeiro deve ter uma tela de input do username, e 
 E só aó enviar para a API
 
 Seguindo a **sugestão** de layout:
-![Username](username.png)
-![Password](password.png)
+![Username](username.png =250x)
+![Password](password.png =250x)
 
 Para o Saldo, mostrar "escondido" num primeiro momento 
 Seguindo a **sugestão** de layout:
