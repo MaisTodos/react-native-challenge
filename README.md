@@ -17,28 +17,48 @@ A MAISTodos precisa mostrar para os seus clientes o saldo disponível em suas co
 Para isso vamos fazer um APP mobile bem simples, que mostra apenas as movitações da conta do cliente e o seu saldo
 Para isso vamos consultar a nossa API de CC
 
+Para o login na aplicação, primeiro deve ter uma tela de input do username, e depois uma tela para a senha
+E só aó enviar para a API
+
+Seguindo a **sugestão** de layout:
+![Username](username.png)
+![Password](password.png)
+
+Para o Saldo, mostrar "escondido" num primeiro momento 
 Seguindo a **sugestão** de layout:
 ![Saldo escondido](balance.png)
 ![Saldo visível](hidden_balance.png)
 
 Deve seguir os conceitos
 ========================
-- Saldo carregado via api, mais não ficaria viível num primeiro momento
+- Essas telas são sugestões, não são necessariamente obrigatórias
+- Saldo carregado via api, mais não ficaria visível num primeiro momento
 - Click para mostrar o saldo
-- Fica a seu critério limpar o layout: tem v;arios link, botões, etc...que não serão usados neste exercício
+- Fica a seu critério limpar o layout: tem vários link, botões, etc...que não serão usados neste exercício
 - Importante ter as abas (Entrada e Saída)
 
 Documentação da API
 ===================
 
+API de Login
+------------
+- Não exite validação na api dos dados de login
+- https://5efb30ac80d8170016f7613d.mockapi.io/api/mock/login
+```json
+{
+  "username": "123",
+  "password": "123"
+}
+```
+
 API de saldo
 ------------
-- balance (float com o saldo
+- saldo (float com o saldo)
 - https://5efb30ac80d8170016f7613d.mockapi.io/api/mock/balance
 
 ```json
 {
-  "balance": 12
+  "saldo": 12
 }
 ```
 
