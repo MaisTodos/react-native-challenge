@@ -22,14 +22,6 @@ Para isso vamos consultar a nossa API de CC
 Para o login na aplicação, primeiro deve ter uma tela de input do username,
 E depois uma tela para a senha, e aí enviar para a API
 
-Seguindo a **sugestão** de layout:
-![Username](username.png)
-![Password](password.png)
-
-Para o Saldo, mostrar "escondido" num primeiro momento 
-Seguindo a **sugestão** de layout:
-![Saldo escondido](balance.png)
-![Saldo visível](hidden_balance.png)
 
 Deve seguir os conceitos
 ========================
@@ -94,4 +86,9 @@ Resposta:
 ![Luck](https://media.tenor.com/images/e026ce9d75219c8d82277ddf0558ee2b/tenor.gif)
 
 
- 
+Sugestões de Layout
+-------------------
+![Username](username.png)
+![Password](password.png)
+![Saldo escondido](balance.png)
+![Saldo visível](hidden_balance.png)
