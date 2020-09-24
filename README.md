@@ -19,7 +19,8 @@ Para isso vamos fazer um APP mobile bem simples, que mostra apenas as movitaçõ
 
 Para isso vamos consultar a nossa API de CC
 
-Para o login na aplicação, primeiro deve ter uma tela de input do username,
+Para o login na aplicação, primeiro deve ter uma tela de input do username
+O username deve ter uma validação de cpf (máscara)
 E depois uma tela para a senha, e aí enviar para a API
 
 
