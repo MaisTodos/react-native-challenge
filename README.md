@@ -46,6 +46,13 @@ API de Login
 }
 ```
 
+```curl
+curl --request POST \
+  --url https://5efb30ac80d8170016f7613d.mockapi.io/api/mock/login --header 'Content-Type: application/json' --data '{
+	"username": "a"
+}'
+```
+
 API de saldo
 ------------
 - saldo (float com o saldo)
@@ -55,6 +62,12 @@ API de saldo
 {
   "saldo": 12
 }
+```
+
+```curl
+curl --request GET \
+  --url https://5efb30ac80d8170016f7613d.mockapi.io/api/mock/balance \
+  --header 'Content-Type: application/json'
 ```
 
 API de transações
@@ -80,6 +93,12 @@ Resposta:
     },
    ...
  ]
+ ```
+ 
+ ```curl
+ curl --request GET \
+  --url https://5efb30ac80d8170016f7613d.mockapi.io/api/mock/transactions \
+  --header 'Content-Type: application/json'
  ```
  
  Boa Sorte!
