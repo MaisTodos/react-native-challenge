@@ -108,7 +108,20 @@ Resposta:
 
 Sugestões de Layout
 -------------------
+
+Login
+=====
 ![Username](username.png)
+
+Senha
+=====
 ![Password](password.png)
+
+Saldo + Transações
+==================
 ![Saldo escondido](balance.png)
+
+
+Saldo + Transações
+==================
 ![Saldo visível](hidden_balance.png)
